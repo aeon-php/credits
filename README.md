@@ -25,3 +25,7 @@ possible to develop Aeon for PHP.
 * https://en.wikipedia.org/wiki/Time_zone
 * https://en.wikipedia.org/wiki/UTC_offset
 * https://en.wikipedia.org/wiki/ISO_8601
+
+--- 
+
+> If you feel that your work is not listed here please open a pull request and give us time to review it. 
