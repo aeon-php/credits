@@ -12,9 +12,10 @@ possible to develop Aeon for PHP.
 * https://www.php.net/manual/en/refs.calendar.php - PHP
 * https://www.joda.org/joda-time/ - Java
 
-## Papers 
+## Papers & Articles
 
 * http://stephane.ducasse.free.fr/Teaching/CoursAnnecy/0506-M1-COO/A%20New%20Object-Oriented%20Model%20of%20the%20Gregorian%20Calendar.pdf
+* https://zachholman.com/talk/utc-is-enough-for-everyone-right
 
 ## Data Sources 
 
