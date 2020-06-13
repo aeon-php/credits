@@ -16,6 +16,7 @@ possible to develop Aeon for PHP.
 
 * http://stephane.ducasse.free.fr/Teaching/CoursAnnecy/0506-M1-COO/A%20New%20Object-Oriented%20Model%20of%20the%20Gregorian%20Calendar.pdf
 * https://zachholman.com/talk/utc-is-enough-for-everyone-right
+* https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time
 
 ## Data Sources 
 
@@ -26,6 +27,12 @@ possible to develop Aeon for PHP.
 * https://en.wikipedia.org/wiki/Time_zone
 * https://en.wikipedia.org/wiki/UTC_offset
 * https://en.wikipedia.org/wiki/ISO_8601
+* https://www.timeanddate.com/time/leapseconds.html
+
+## Stackoverflow
+
+* https://stackoverflow.com/a/7780530 - leap second php 
+* https://stackoverflow.com/a/14207789 - leap second php
 
 --- 
 
