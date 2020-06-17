@@ -17,6 +17,12 @@ possible to develop Aeon for PHP.
 * http://stephane.ducasse.free.fr/Teaching/CoursAnnecy/0506-M1-COO/A%20New%20Object-Oriented%20Model%20of%20the%20Gregorian%20Calendar.pdf
 * https://zachholman.com/talk/utc-is-enough-for-everyone-right
 * https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time
+* https://www.timeanddate.com/time/international-atomic-time.html
+* https://confluence.qps.nl/qinsy/latest/en/utc-to-gps-time-correction-32245263.html
+* https://www.ietf.org/timezones/data/leap-seconds.list
+* https://www.timeanddate.com/time/international-atomic-time.html
+* http://leapsecond.com/java/gpsclock.htm
+* https://derickrethans.nl/leap-seconds-and-what-to-do-with-them.html
 
 ## Data Sources 
 
