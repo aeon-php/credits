@@ -42,7 +42,7 @@ possible to develop Aeon for PHP.
 
 ## Mentiones 
 
-@styxiak - thanks for the resources and inspiration about GPS time! 
+[@styxiak](https://github.com/styxiak) - thanks for the resources and inspiration about GPS time! 
 
 --- 
 
