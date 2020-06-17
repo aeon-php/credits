@@ -40,6 +40,10 @@ possible to develop Aeon for PHP.
 * https://stackoverflow.com/a/7780530 - leap second php 
 * https://stackoverflow.com/a/14207789 - leap second php
 
+## Mentiones 
+
+@styxiak - thanks for the resources and inspiration about GPS time! 
+
 --- 
 
 > If you feel that your work is not listed here please open a pull request and give us time to review it. 
